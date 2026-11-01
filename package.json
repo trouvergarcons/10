@@ -1,0 +1,23 @@
+{
+  "name": "books-catalog-app",
+  "version": "1.0.0",
+  "description": "Full-stack Book Catalog application with Express REST API and jQuery frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "jquery",
+    "ajax",
+    "express",
+    "rest-api",
+    "books"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
